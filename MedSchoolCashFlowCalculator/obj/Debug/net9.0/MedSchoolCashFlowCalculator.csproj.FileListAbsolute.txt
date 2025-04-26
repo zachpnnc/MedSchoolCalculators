@@ -1,0 +1,14 @@
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\bin\Debug\net9.0\MedSchoolCashFlowCalculator.exe
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\bin\Debug\net9.0\MedSchoolCashFlowCalculator.deps.json
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\bin\Debug\net9.0\MedSchoolCashFlowCalculator.runtimeconfig.json
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\bin\Debug\net9.0\MedSchoolCashFlowCalculator.dll
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\bin\Debug\net9.0\MedSchoolCashFlowCalculator.pdb
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\obj\Debug\net9.0\MedSchoolCashFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\obj\Debug\net9.0\MedSchoolCashFlowCalculator.AssemblyInfoInputs.cache
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\obj\Debug\net9.0\MedSchoolCashFlowCalculator.AssemblyInfo.cs
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\obj\Debug\net9.0\MedSchoolCashFlowCalculator.csproj.CoreCompileInputs.cache
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\obj\Debug\net9.0\MedSchoolCashFlowCalculator.dll
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\obj\Debug\net9.0\refint\MedSchoolCashFlowCalculator.dll
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\obj\Debug\net9.0\MedSchoolCashFlowCalculator.pdb
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\obj\Debug\net9.0\MedSchoolCashFlowCalculator.genruntimeconfig.cache
+C:\Users\zachp\RiderProjects\ConsoleApp2\MedSchoolCashFlowCalculator\obj\Debug\net9.0\ref\MedSchoolCashFlowCalculator.dll

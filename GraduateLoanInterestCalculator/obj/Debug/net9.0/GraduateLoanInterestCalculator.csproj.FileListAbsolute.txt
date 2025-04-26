@@ -1,0 +1,14 @@
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\bin\Debug\net9.0\GraduateLoanInterestCalculator.exe
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\bin\Debug\net9.0\GraduateLoanInterestCalculator.deps.json
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\bin\Debug\net9.0\GraduateLoanInterestCalculator.runtimeconfig.json
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\bin\Debug\net9.0\GraduateLoanInterestCalculator.dll
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\bin\Debug\net9.0\GraduateLoanInterestCalculator.pdb
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\obj\Debug\net9.0\GraduateLoanInterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\obj\Debug\net9.0\GraduateLoanInterestCalculator.AssemblyInfoInputs.cache
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\obj\Debug\net9.0\GraduateLoanInterestCalculator.AssemblyInfo.cs
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\obj\Debug\net9.0\GraduateLoanInterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\obj\Debug\net9.0\GraduateLoanInterestCalculator.dll
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\obj\Debug\net9.0\refint\GraduateLoanInterestCalculator.dll
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\obj\Debug\net9.0\GraduateLoanInterestCalculator.pdb
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\obj\Debug\net9.0\GraduateLoanInterestCalculator.genruntimeconfig.cache
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculator\obj\Debug\net9.0\ref\GraduateLoanInterestCalculator.dll

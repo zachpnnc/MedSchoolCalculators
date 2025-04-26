@@ -1,0 +1,14 @@
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\bin\Debug\net9.0-windows\GraduateLoanInterestCalculatorGUI.exe
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\bin\Debug\net9.0-windows\GraduateLoanInterestCalculatorGUI.deps.json
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\bin\Debug\net9.0-windows\GraduateLoanInterestCalculatorGUI.runtimeconfig.json
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\bin\Debug\net9.0-windows\GraduateLoanInterestCalculatorGUI.dll
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\bin\Debug\net9.0-windows\GraduateLoanInterestCalculatorGUI.pdb
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\obj\Debug\net9.0-windows\GraduateLoanInterestCalculatorGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\obj\Debug\net9.0-windows\GraduateLoanInterestCalculatorGUI.AssemblyInfoInputs.cache
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\obj\Debug\net9.0-windows\GraduateLoanInterestCalculatorGUI.AssemblyInfo.cs
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\obj\Debug\net9.0-windows\GraduateLoanInterestCalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\obj\Debug\net9.0-windows\GraduateLoanInterestCalculatorGUI.dll
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\obj\Debug\net9.0-windows\refint\GraduateLoanInterestCalculatorGUI.dll
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\obj\Debug\net9.0-windows\GraduateLoanInterestCalculatorGUI.pdb
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\obj\Debug\net9.0-windows\GraduateLoanInterestCalculatorGUI.genruntimeconfig.cache
+C:\Users\zachp\RiderProjects\ConsoleApp2\GraduateLoanInterestCalculatorGUI\obj\Debug\net9.0-windows\ref\GraduateLoanInterestCalculatorGUI.dll
